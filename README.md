@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @solisadeqi
+- 👋 Hi, I’m @soli
 - 👀 I’m interested in programmig ,bug fixing ,problem solvinig,web  
-- 🌱 I’m currently learning pwa,firesbase
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on app
 - 📫 How to reach me sadeqisoli@gmail.com
 
