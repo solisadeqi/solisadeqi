@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soli
-- 👀 I’m interested in programmig ,bug fixing ,problem solvinig,web  
+- 👀 I’m interested in AI/Programming/web/pwa/...    
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on app
 - 📫 How to reach me sadeqisoli@gmail.com
