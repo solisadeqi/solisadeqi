@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @soli      
-- 👀 I’m interested in Programming        
-- 📫 How to reach me sadeqisoli@gmail.com         
+- 👀 Currently working as Automation engineer using python/React frameworks/...  
+- 📫 How to reach me sadeqisoli@gmail.com
