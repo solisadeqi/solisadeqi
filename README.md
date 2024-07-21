@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @soli      
-- 👀 Currently working as Automation engineer using python/React frameworks/...  
+- 👀 Team leader  
 - 📫 How to reach me sadeqisoli@gmail.com
